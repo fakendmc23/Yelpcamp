@@ -17,6 +17,6 @@ Primer gran proyecto que hice para el curso de udemy "The Web Developer Bootcamp
 - Trabajar con formato GJSON.
 - Aplicar estilos.
 - Hacer responsiva una app más compleja.
-- Resoplver problemas de seguridad comúnes como sanitizar HTML o evitar Cross Site Scripting (XSS).
+- Resolver problemas de seguridad comúnes como sanitizar HTML o evitar Cross Site Scripting (XSS).
 - Finalmente como deplegar una aplicación!
 

@@ -1,6 +1,9 @@
 # Yelpcamp
 Live Demo:
-https://yelpcamp-flores-facundo.herokuapp.com/
+https://yelpcamp-flores-facundo.herokuapp.com/ 
+Por favor sean pacientes heroku tarda por el sleep mode, trabajando en un nuevo deploy!
+
+Login credentials: user: tim password: tim
 
 First big project i made for udemy course "The Web Developer Bootcamp"
 Primer gran proyecto que hice para el curso de udemy "The Web Developer Bootcamp"

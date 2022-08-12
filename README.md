@@ -16,7 +16,7 @@ Primer gran proyecto que hice para el curso de udemy "The Web Developer Bootcamp
 - Agregar Autenticación de seguriad en una app.
 - Agregar Permisos
 - Aplicar funcionalidad de subir multiples archivos en la nube de la aplicación.
-- Hacer pedidos a una Api de mapas y trabajar con formato GJSON.
+- Hacer pedidos a una Api de mapas.
 - Trabajar con formato GJSON.
 - Aplicar estilos.
 - Hacer responsiva una app más compleja.

@@ -2,6 +2,8 @@
 Live Demo:
 https://yelpcamp-flores-facundo.up.railway.app/
 
+![alt text](https://raw.githubusercontent.com/fdFloresMarquez/react-gif-expert-app/main/img.png)
+
 Login credentials: user: tim password: tim
 
 First big project i made for udemy course "The Web Developer Bootcamp"

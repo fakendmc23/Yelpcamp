@@ -2,7 +2,7 @@
 Live Demo:
 https://yelpcamp-flores-facundo.up.railway.app/
 
-![alt text](https://raw.githubusercontent.com/fdFloresMarquez/react-gif-expert-app/main/img.png)
+![alt text](https://raw.githubusercontent.com/fdFloresMarquez/Yelpcamp/master/public/screenshot.png)
 
 Login credentials: user: tim password: tim
 

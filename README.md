@@ -23,5 +23,5 @@ Primer gran proyecto que hice para el curso de udemy "The Web Developer Bootcamp
 - Aplicar estilos.
 - Hacer responsiva una app más compleja.
 - Resolver problemas de seguridad comúnes como sanitizar HTML o evitar Cross Site Scripting (XSS).
-- Finalmente como deplegar una aplicación!
+- Finalmente como deplegar una aplicación!!
 
